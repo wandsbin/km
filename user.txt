@@ -1,1 +1,1 @@
-{user:admin,ps=666777yyy}
+{user=admin,ps=666777yyy}
